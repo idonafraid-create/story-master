@@ -1,6 +1,6 @@
 ---
 name: story-master
-description: Professional agent skill for story development, outlining, and script doctoring. Active when writing novels, screenplays, narrative designs, or analyzing plot steps, 7 key steps, 22 steps, four-corner opposition, moral arguments, symbol networks, scene weaving, and symphonic dialogue.
+description: Professional agent skill for story development and script doctoring. Active for writing novels (写小说), screenplays (剧本), or analyzing 7 key steps (七大步骤), 22 steps (22步情节), four-corner opposition (四角对立), moral arguments (道德议题/主题), symbol networks (象征网络), scene weaving (场景编排), and symphonic dialogue (交响式对白).
 ---
 
 # 故事写作大师 (Story Master) - 写作 Skill
