@@ -1,6 +1,6 @@
 ---
 name: story-master
-description: 专门用于小说、剧本、故事大纲的写作、分析与诊断。当用户要求写故事、设计角色、推演情节、诊断剧本，或提到“剧本医生”、“故事前提”、“22个故事步骤”、“七大关键结构步骤”、“四角对立”、“道德议题”、“象征网络”、“场景编排”或“交响乐式对白”时，务必启用此技能，提供大师级故事写作辅导。
+description: Professional agent skill for story development, outlining, and script doctoring. Active when writing novels, screenplays, narrative designs, or analyzing plot steps, 7 key steps, 22 steps, four-corner opposition, moral arguments, symbol networks, scene weaving, and symphonic dialogue.
 ---
 
 # 故事写作大师 (Story Master) - 写作 Skill
