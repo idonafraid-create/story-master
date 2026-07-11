@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[English](./README.md) · [简体中文](./README.zh-CN.md)
+[English](./README.md) · **简体中文**
 
 **基于约翰·特鲁比的《故事写作大师班》，用于构建角色驱动的结构、有机情节与主题框架。**
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[English](./README.md) · [简体中文](./README.zh-CN.md)
+**English** · [简体中文](./README.zh-CN.md)
 
 **Character-driven structures, organic plots, and thematic architecture based on John Truby's *The Anatomy of Story*.**
 
