@@ -50,7 +50,7 @@ description: Professional agent skill for story development and script doctoring
 
 ### 【闸门 5：场景编排与起草】
 1. **任务**：进行分场设计与文本起草。
-2. **规则**：查阅 [references/scene_dialogue.md](file:///D:/AntigravityAbout/.agent/skills/story-master/references/scene_dialogue.md) 及 [references/world_symbols.md](file:///D:/AntigravityAbout/.agent/skills/story-master/references/world_symbols.md)。
+2. **规则**：查阅 [references/scene_dialogue.md](file:///D:/AntigravityAbout/.agent/skills/story-master/references/scene_dialogue.md) 及 [references/world_symbols.md](file:///D:/AntigravityAbout/.agent/skills/story-master/references/world_symbols.md)。写正文时若章节读感发飘（尤其是低情节/日常章），可参考 [references/craft_lenses.md](file:///D:/AntigravityAbout/.agent/skills/story-master/references/craft_lenses.md) 的逐章透镜诊断。
 3. **完成标准**：完成分场大纲及正文片段的撰写。
 
 ---
@@ -70,4 +70,5 @@ description: Professional agent skill for story development and script doctoring
 
 当用户请求诊断或修改现成故事大纲/剧本时，直接启用此模式：
 1. **诊断核心病灶**：对照 **【自检质量门槛】** 找出缺陷（如欲望线不合一、主角完美无缺、对手动机扁平、情节节拍重复等）。
-2. **给出重构方案**：基于特鲁比体系给出具体调整建议（如重组四角对立、设计假盟友、或将中段重新编排为“体验死亡/看似落败”等步骤）。
+2. **给出重构方案**：基于特鲁比体系给出具体调整建议（如重组四角对立、设计假盟友、或将中段重新编排为”体验死亡/看似落败”等步骤）。
+3. **章节级工艺诊断**：若病灶不在弧线骨架而在单章行文层（低情节章发飘、日常章读成过门、不知道”哪里薄”），查阅 [references/craft_lenses.md](file:///D:/AntigravityAbout/.agent/skills/story-master/references/craft_lenses.md)，按章型和症状选取对应透镜诊断。此参考补充骨架层（7步/22步）与行文层（qiaomu）之间的中间工艺。
